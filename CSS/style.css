@@ -1,0 +1,101 @@
+.container {
+    width: 80%;
+    height: 40em;
+    border: 1px solid ;
+    margin: 0 auto;
+    background-color: rgb(172, 221, 241);
+}
+
+.ticket {
+    width: 70%;
+    height: 35em;
+    border: 1px solid #ffffff;
+    margin: 40px auto;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.ticket-top {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ticket-top-text {
+    font-size: 2em;
+    font-weight: 600;
+    color: rgb(115, 113, 207);
+}
+
+.ticket-top-paragraph {
+    color: #777;
+    font-size: 1em;
+    font-weight: 800;
+}
+
+.ticket-middle-form {
+    width: 80%;
+    margin: 20px 0px 0px 50px;
+    
+}
+
+.ticket-middle-label {
+    font-size: 1.2em;
+    color: rgb(115, 113, 207);
+
+}
+
+.ticket-middle-input {
+    width: 30%;
+    height: 2rem;
+    background-color: rgb(247, 244, 244);
+    border: 1px solid #909999;
+    border-radius: 5px;
+}
+
+.ticket-middle-input-number {
+    width: 40%;
+    height: 1.5rem;
+    background-color: rgb(247, 244, 244);
+    border: 1px solid #909999;
+    border-radius: 5px;
+}
+
+.ticket-middle-input-submit {
+    width: 50%;
+    height: 2.5rem;
+    border: 1px solid #909999;
+    border-radius: 20px;
+    background-color: rgb(219, 157, 22);
+
+}
+
+.ticket-middle-label-submit {
+    font-size: 1.2em;
+    color: rgb(115, 113, 207);
+    
+
+}
+
+.ticket-middle-form-submit {
+    width: 50%;
+    margin: 20px 0px 0px 50px;
+    float: right;
+    text-align: center;
+}
+
+
+.email-us {
+    width: 20%;
+    margin: 80px auto;
+    display: flex;
+}
+
+.email-us-link {
+    width: 60%;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+    color: rgb(115, 113, 207);
+
+}
